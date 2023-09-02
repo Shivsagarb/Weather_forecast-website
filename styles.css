@@ -6,8 +6,7 @@
 }
 
 body{
-    background: #222;
-    background-image: url(images/jonatan-pie-3l3RwQdHRHg-unsplash.jpg);
+    background: linear-gradient(to right, #6724ed, #d7d7d9);
     background-size: cover;
 }
 
